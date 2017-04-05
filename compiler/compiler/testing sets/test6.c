@@ -43,6 +43,7 @@ void quicksort(int i,int j)
 	if(i<y)
 	    quicksort(i,y);
 }
+//第三个：我开我关；关键词出现；
 void print_list(int n)
 {
 	int i;
